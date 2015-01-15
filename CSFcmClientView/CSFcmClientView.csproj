@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E2278AE3-9167-43F6-BE3D-E90BF823C6CC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CSFcmClientView</RootNamespace>
+    <AssemblyName>CSFcmClientView</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CSFcmData, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CSFcmData\bin\Debug\CSFcmData.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=7.0.0.4, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CSDlgLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSDlgLogin.designer.cs">
+      <DependentUpon>CSDlgLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSDlgManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSDlgManager.Designer.cs">
+      <DependentUpon>CSDlgManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSDlgRestaurant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSDlgRestaurant.Designer.cs">
+      <DependentUpon>CSDlgRestaurant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSDlgMenudetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSDlgMenudetail.Designer.cs">
+      <DependentUpon>CSDlgMenudetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSDlgMenuReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSDlgMenuReg.Designer.cs">
+      <DependentUpon>CSDlgMenuReg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSDlgOrderdetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSDlgOrderdetail.Designer.cs">
+      <DependentUpon>CSDlgOrderdetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSDlgStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSDlgStudent.Designer.cs">
+      <DependentUpon>CSDlgStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSDlgUserReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSDlgUserReg.designer.cs">
+      <DependentUpon>CSDlgUserReg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CSDlgLogin.resx">
+      <DependentUpon>CSDlgLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSDlgManager.resx">
+      <DependentUpon>CSDlgManager.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSDlgRestaurant.resx">
+      <DependentUpon>CSDlgRestaurant.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSDlgMenudetail.resx">
+      <DependentUpon>CSDlgMenudetail.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSDlgMenuReg.resx">
+      <DependentUpon>CSDlgMenuReg.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSDlgOrderdetail.resx">
+      <DependentUpon>CSDlgOrderdetail.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSDlgStudent.resx">
+      <DependentUpon>CSDlgStudent.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSDlgUserReg.resx">
+      <DependentUpon>CSDlgUserReg.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reg_background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\food.png" />
+    <Content Include="Resources\function_choice.png" />
+    <Content Include="Resources\lg_admin.png" />
+    <Content Include="Resources\lg_background.jpg" />
+    <Content Include="Resources\lg_icon.ico" />
+    <Content Include="Resources\lg_restaurant.png" />
+    <Content Include="Resources\lg_student.png" />
+    <Content Include="Resources\manage_personal.png" />
+    <Content Include="Resources\manage_restaurant.png" />
+    <Content Include="Resources\manage_student.png" />
+    <None Include="Resources\MenuLittle\Ludish_Little.jpg" />
+    <None Include="Resources\MenuBig\Ludish_Big.jpg" />
+    <None Include="Resources\MenuBig\Zhushi_Big.jpg" />
+    <None Include="Resources\MenuBig\Chuandish_Big.jpg" />
+    <None Include="Resources\MenuBig\Huidish_Big.jpg" />
+    <None Include="Resources\MenuBig\Mianshi_Big.jpg" />
+    <None Include="Resources\MenuBig\Mindish_Big.jpg" />
+    <None Include="Resources\MenuBig\Sudish_Big.jpg" />
+    <None Include="Resources\MenuBig\Tang_Big.jpg" />
+    <None Include="Resources\MenuBig\Xiangdish_Big.jpg" />
+    <None Include="Resources\MenuBig\Yuedish_Big.jpg" />
+    <None Include="Resources\MenuBig\Zhedish_Big.jpg" />
+    <None Include="Resources\MenuBig\Zhou_Big.jpg" />
+    <None Include="Resources\MenuLittle\Zhushi_Little.jpg" />
+    <None Include="Resources\MenuLittle\Chuandish_Little.jpg" />
+    <None Include="Resources\MenuLittle\Huidish_Little.jpg" />
+    <None Include="Resources\MenuLittle\Mianshi_Little.jpg" />
+    <None Include="Resources\MenuLittle\Mindish_Little.jpg" />
+    <None Include="Resources\MenuLittle\Sudish_Little.jpg" />
+    <None Include="Resources\MenuLittle\Tang_Little.jpg" />
+    <None Include="Resources\MenuLittle\Xiangdish_Little.jpg" />
+    <None Include="Resources\MenuLittle\Yuedish_Little.jpg" />
+    <None Include="Resources\MenuLittle\Zhedish_Little.jpg" />
+    <None Include="Resources\MenuLittle\Zhou_Little.jpg" />
+    <Content Include="Resources\menu.png" />
+    <Content Include="Resources\order.png" />
+    <Content Include="Resources\search.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

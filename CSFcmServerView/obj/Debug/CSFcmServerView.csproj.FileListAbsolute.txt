@@ -1,0 +1,36 @@
+F:\CSFcmTask\CSFcmServerView\bin\Debug\CSFcmServerView.exe
+F:\CSFcmTask\CSFcmServerView\bin\Debug\CSFcmServerView.pdb
+F:\CSFcmTask\CSFcmServerView\obj\Debug\ResolveAssemblyReference.cache
+F:\CSFcmTask\CSFcmServerView\obj\Debug\CSFcmServerView.Properties.Resources.resources
+F:\CSFcmTask\CSFcmServerView\obj\Debug\CSFcmServerView.csproj.GenerateResource.Cache
+F:\CSFcmTask\CSFcmServerView\obj\Debug\CSFcmServerView.exe
+F:\CSFcmTask\CSFcmServerView\obj\Debug\CSFcmServerView.pdb
+F:\新建文件夹 (3)\CSFcmServerView\bin\Debug\CSFcmServerView.exe
+F:\新建文件夹 (3)\CSFcmServerView\bin\Debug\CSFcmServerView.pdb
+F:\新建文件夹 (3)\CSFcmServerView\obj\Debug\ResolveAssemblyReference.cache
+F:\新建文件夹 (3)\CSFcmServerView\obj\Debug\CSFcmServerView.Properties.Resources.resources
+F:\新建文件夹 (3)\CSFcmServerView\obj\Debug\CSFcmServerView.csproj.GenerateResource.Cache
+F:\新建文件夹 (3)\CSFcmServerView\obj\Debug\CSFcmServerView.exe
+F:\新建文件夹 (3)\CSFcmServerView\obj\Debug\CSFcmServerView.pdb
+F:\版本库\CSFcmServerView\bin\Debug\CSFcmServerView.exe
+F:\版本库\CSFcmServerView\bin\Debug\CSFcmServerView.pdb
+F:\版本库\CSFcmServerView\obj\Debug\ResolveAssemblyReference.cache
+F:\版本库\CSFcmServerView\obj\Debug\CSFcmServerView.Properties.Resources.resources
+F:\版本库\CSFcmServerView\obj\Debug\CSFcmServerView.csproj.GenerateResource.Cache
+F:\版本库\CSFcmServerView\obj\Debug\CSFcmServerView.exe
+F:\版本库\CSFcmServerView\obj\Debug\CSFcmServerView.pdb
+F:\版本库\CSFcmServerView\bin\Debug\CSFcmData.dll
+F:\版本库\CSFcmServerView\bin\Debug\CSFcmData.pdb
+F:\版本库\CSFcmServerView\obj\Debug\CSFcmServerView.MainFrm.resources
+F:\新建文件夹 (2)\CSFcmServerView\bin\Debug\CSFcmServerView.exe
+F:\新建文件夹 (2)\CSFcmServerView\bin\Debug\CSFcmServerView.pdb
+F:\新建文件夹 (2)\CSFcmServerView\bin\Debug\CSFcmData.dll
+F:\新建文件夹 (2)\CSFcmServerView\bin\Debug\CSFcmData.pdb
+F:\新建文件夹 (2)\CSFcmServerView\obj\Debug\ResolveAssemblyReference.cache
+F:\新建文件夹 (2)\CSFcmServerView\obj\Debug\CSFcmServerView.MainFrm.resources
+F:\新建文件夹 (2)\CSFcmServerView\obj\Debug\CSFcmServerView.Properties.Resources.resources
+F:\新建文件夹 (2)\CSFcmServerView\obj\Debug\CSFcmServerView.csproj.GenerateResource.Cache
+F:\新建文件夹 (2)\CSFcmServerView\obj\Debug\CSFcmServerView.exe
+F:\新建文件夹 (2)\CSFcmServerView\obj\Debug\CSFcmServerView.pdb
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmServerView\obj\Debug\CSFcmServerView.exe
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmServerView\obj\Debug\CSFcmServerView.pdb

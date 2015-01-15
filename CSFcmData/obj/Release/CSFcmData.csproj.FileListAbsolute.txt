@@ -1,0 +1,5 @@
+F:\版本库\CSFcmData\bin\Release\CSFcmData.dll
+F:\版本库\CSFcmData\bin\Release\CSFcmData.pdb
+F:\版本库\CSFcmData\obj\Release\ResolveAssemblyReference.cache
+F:\版本库\CSFcmData\obj\Release\CSFcmData.dll
+F:\版本库\CSFcmData\obj\Release\CSFcmData.pdb

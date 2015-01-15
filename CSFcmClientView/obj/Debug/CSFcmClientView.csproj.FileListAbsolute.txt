@@ -1,0 +1,62 @@
+F:\CSFcmTask\CSFcmClientView\bin\Debug\CSFcmClientView.exe
+F:\CSFcmTask\CSFcmClientView\bin\Debug\CSFcmClientView.pdb
+F:\CSFcmTask\CSFcmClientView\obj\Debug\ResolveAssemblyReference.cache
+F:\CSFcmTask\CSFcmClientView\obj\Debug\CSFcmClientView.Properties.Resources.resources
+F:\CSFcmTask\CSFcmClientView\obj\Debug\CSFcmClientView.csproj.GenerateResource.Cache
+F:\CSFcmTask\CSFcmClientView\obj\Debug\CSFcmClientView.exe
+F:\CSFcmTask\CSFcmClientView\obj\Debug\CSFcmClientView.pdb
+F:\CSFcmTask\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgLogin.resources
+F:\新建文件夹 (3)\CSFcmClientView\obj\Debug\CSFcmClientView.exe
+F:\新建文件夹 (3)\CSFcmClientView\obj\Debug\CSFcmClientView.pdb
+F:\新建文件夹 (3)\CSFcmClientView\bin\Debug\CSFcmClientView.exe
+F:\新建文件夹 (3)\CSFcmClientView\bin\Debug\CSFcmClientView.pdb
+F:\新建文件夹 (3)\CSFcmClientView\obj\Debug\ResolveAssemblyReference.cache
+F:\新建文件夹 (3)\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgLogin.resources
+F:\新建文件夹 (3)\CSFcmClientView\obj\Debug\CSFcmClientView.Properties.Resources.resources
+F:\新建文件夹 (3)\CSFcmClientView\obj\Debug\CSFcmClientView.csproj.GenerateResource.Cache
+F:\版本库\CSFcmClientView\obj\Debug\CSFcmClientView.exe
+F:\版本库\CSFcmClientView\obj\Debug\CSFcmClientView.pdb
+F:\版本库\CSFcmClientView\bin\Debug\CSFcmClientView.exe
+F:\版本库\CSFcmClientView\bin\Debug\CSFcmClientView.pdb
+F:\版本库\CSFcmClientView\obj\Debug\ResolveAssemblyReference.cache
+F:\版本库\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgLogin.resources
+F:\版本库\CSFcmClientView\obj\Debug\CSFcmClientView.Properties.Resources.resources
+F:\版本库\CSFcmClientView\obj\Debug\CSFcmClientView.csproj.GenerateResource.Cache
+F:\版本库\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgUserReg.resources
+F:\版本库\CSFcmClientView\bin\Debug\CSFcmData.dll
+F:\版本库\CSFcmClientView\bin\Debug\CSFcmData.pdb
+F:\版本库\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgManager.resources
+F:\新建文件夹 (2)\CSFcmClientView\obj\Debug\CSFcmClientView.exe
+F:\新建文件夹 (2)\CSFcmClientView\obj\Debug\CSFcmClientView.pdb
+F:\新建文件夹 (2)\CSFcmClientView\bin\Debug\CSFcmClientView.exe
+F:\新建文件夹 (2)\CSFcmClientView\bin\Debug\CSFcmClientView.pdb
+F:\新建文件夹 (2)\CSFcmClientView\bin\Debug\CSFcmData.dll
+F:\新建文件夹 (2)\CSFcmClientView\bin\Debug\CSFcmData.pdb
+F:\新建文件夹 (2)\CSFcmClientView\obj\Debug\ResolveAssemblyReference.cache
+F:\新建文件夹 (2)\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgLogin.resources
+F:\新建文件夹 (2)\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgManager.resources
+F:\新建文件夹 (2)\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgUserReg.resources
+F:\新建文件夹 (2)\CSFcmClientView\obj\Debug\CSFcmClientView.Properties.Resources.resources
+F:\新建文件夹 (2)\CSFcmClientView\obj\Debug\CSFcmClientView.csproj.GenerateResource.Cache
+F:\版本库\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgMenudetail.resources
+F:\版本库\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgOrderdetail.resources
+F:\版本库\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgStudent.resources
+F:\版本库\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgRestaurant.resources
+F:\版本库\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgMenuReg.resources
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmClientView\bin\Debug\CSFcmClientView.exe
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmClientView\bin\Debug\CSFcmClientView.pdb
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmClientView\bin\Debug\CSFcmData.dll
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmClientView\bin\Debug\CSFcmData.pdb
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmClientView\obj\Debug\ResolveAssemblyReference.cache
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgLogin.resources
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgManager.resources
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgRestaurant.resources
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgMenudetail.resources
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgMenuReg.resources
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgOrderdetail.resources
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgStudent.resources
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmClientView\obj\Debug\CSFcmClientView.CSDlgUserReg.resources
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmClientView\obj\Debug\CSFcmClientView.Properties.Resources.resources
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmClientView\obj\Debug\CSFcmClientView.csproj.GenerateResource.Cache
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmClientView\obj\Debug\CSFcmClientView.exe
+J:\软件工程\专业相关课件\大三CShape程序\CSFcmClientView\obj\Debug\CSFcmClientView.pdb

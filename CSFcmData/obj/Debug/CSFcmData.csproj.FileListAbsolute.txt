@@ -1,0 +1,20 @@
+F:\CSFcmTask\CSFcmData\bin\Debug\CSFcmData.dll
+F:\CSFcmTask\CSFcmData\bin\Debug\CSFcmData.pdb
+F:\CSFcmTask\CSFcmData\obj\Debug\ResolveAssemblyReference.cache
+F:\CSFcmTask\CSFcmData\obj\Debug\CSFcmData.dll
+F:\CSFcmTask\CSFcmData\obj\Debug\CSFcmData.pdb
+F:\新建文件夹 (3)\CSFcmData\bin\Debug\CSFcmData.dll
+F:\新建文件夹 (3)\CSFcmData\bin\Debug\CSFcmData.pdb
+F:\新建文件夹 (3)\CSFcmData\obj\Debug\ResolveAssemblyReference.cache
+F:\新建文件夹 (3)\CSFcmData\obj\Debug\CSFcmData.dll
+F:\新建文件夹 (3)\CSFcmData\obj\Debug\CSFcmData.pdb
+F:\版本库\CSFcmData\bin\Debug\CSFcmData.dll
+F:\版本库\CSFcmData\bin\Debug\CSFcmData.pdb
+F:\版本库\CSFcmData\obj\Debug\ResolveAssemblyReference.cache
+F:\版本库\CSFcmData\obj\Debug\CSFcmData.dll
+F:\版本库\CSFcmData\obj\Debug\CSFcmData.pdb
+F:\新建文件夹 (2)\CSFcmData\bin\Debug\CSFcmData.dll
+F:\新建文件夹 (2)\CSFcmData\bin\Debug\CSFcmData.pdb
+F:\新建文件夹 (2)\CSFcmData\obj\Debug\ResolveAssemblyReference.cache
+F:\新建文件夹 (2)\CSFcmData\obj\Debug\CSFcmData.dll
+F:\新建文件夹 (2)\CSFcmData\obj\Debug\CSFcmData.pdb
